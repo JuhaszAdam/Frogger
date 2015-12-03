@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1447507146 source:c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\car.cpp
+	"Car.h"
+	"MyConsole.h"
+	"Playground.h"
+	<windows.h>
+
+1447506288 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\car.h
+	"Entity.h"
+	"DirectionEnum.h"
+
+1447497746 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\entity.h
+	"Coordinate.h"
+
+1447498123 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\coordinate.h
+
+1447507833 source:c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\console.cpp
+	"Console.h"
+	"MyConsole.h"
+
+1447507609 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\console.h
+
+1447498162 source:c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\coordinate.cpp
+	"Coordinate.h"
+
+1447509860 source:c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\frog.cpp
+	"Frog.h"
+	"Playground.h"
+	"MyConsole.h"
+
+1447497784 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\frog.h
+	"Coordinate.h"
+	"Entity.h"
+	"DirectionEnum.h"
+
+1447500573 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\directionenum.h
+
+1447492183 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\myconsole.h
+	<windows.h>
+
+1447509339 source:c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\main.cpp
+	<iostream>
+	"Console.h"
+	"MyConsole.h"
+	"Playground.h"
+	<conio.h>
+
+1447510121 c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\playground.h
+	"Car.h"
+	"Frog.h"
+	"Console.h"
+	<cstddef>
+	<vector>
+	<time.h>
+	<stdlib.h>
+
+1447492183 source:c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\myconsole.cpp
+	<stdio.h>
+	<conio.h>
+	"MyConsole.h"
+
+1447509806 source:c:\users\szgytan\desktop\delete me\juhaszadamfrogger\frogger\playground.cpp
+	"Playground.h"
+	"Console.h"
+	"MyConsole.h"
+	<conio.h>
+	<iostream>
+
